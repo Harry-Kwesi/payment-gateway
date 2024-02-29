@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StripePaymentIntent</string>
+    <string name="go_to_payment">Go to Payment</string>
+</resources>
