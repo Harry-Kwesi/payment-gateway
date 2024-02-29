@@ -15,7 +15,6 @@ You will need a Stripe account in order to run the demo. Once you set up your ac
 npm install
 npm start
 
-
 3. Run a webhook locally
 You can use tools like ngrok or 
 install the CLI and link your Stripe account.
