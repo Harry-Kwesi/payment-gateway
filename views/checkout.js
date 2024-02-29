@@ -1,6 +1,4 @@
-var stripe = Stripe(
-  "pk_test_51OnBx0Jk50s0cyZJiILj5ALHJiZEpKrASjMYuwcNUU4K5JZ2ty8yhMqkqPXj96h4JKuRqBHHlUjRn23BhKryWHHn00aiCNeH8U"
-);
+var stripe = Stripe("pk_test_5...");
 
 var form = document.getElementById("payment-form");
 
