@@ -1,4 +1,4 @@
-How to run locally.
+    How to run locally.
 
 1. Rename and move the .env.example file into a file named .env in the specific folder of the server language you want to use. 
 
